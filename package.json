@@ -1,6 +1,6 @@
 {
   "name": "connect-winston",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "winston logging for connect applications",
   "main": "index.js",
   "repository": {
