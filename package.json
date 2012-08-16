@@ -1,0 +1,19 @@
+{
+  "name": "connect-winston",
+  "version": "0.0.0",
+  "description": "winston logging for connect applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/connect-winston.git"
+  },
+  "keywords": [
+    "winston",
+    "connect",
+    "express",
+    "logging",
+    "logger"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD"
+}
