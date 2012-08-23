@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/deoxxa/connect-winston.png)](http://travis-ci.org/deoxxa/connect-winston)
 connect-winston
 ===============
 
